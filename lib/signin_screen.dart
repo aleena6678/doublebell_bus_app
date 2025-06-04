@@ -1,8 +1,8 @@
-import 'package:first_page/widgets/signup_screen.dart';
-import 'package:first_page/widgets/welcomescreen.dart';
+import 'package:first_page/signup_screen.dart';
+import 'package:first_page/welcomescreen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/gestures.dart';
-import 'package:first_page/widgets/bus_search_app.dart';
+import 'package:first_page/bus_search_app.dart';
 //import 'package:shared_preferences/shared_preferences.dart';
 //import 'package:first_page/widgets/input.dart';
 import 'package:first_page/services/auth_service.dart';
