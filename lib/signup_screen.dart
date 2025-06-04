@@ -1,8 +1,8 @@
-import 'package:first_page/widgets/bus_search_app.dart';
+import 'package:first_page/bus_search_app.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:first_page/widgets/signin_screen.dart';
+import 'package:first_page/signin_screen.dart';
 import 'package:flutter/gestures.dart';
 
 class SignupScreen extends StatefulWidget {
